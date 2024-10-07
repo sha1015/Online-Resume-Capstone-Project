@@ -1,2 +1,2 @@
 # Online-Resume-Capstone-Project
-Practice
+Practice from scratch code
